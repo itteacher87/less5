@@ -19,3 +19,4 @@ man1 = Man('Вася',25)
 man2 = Man('Петя',29)
 
 Man.compare_ages(man1,man2)
+print(111)
